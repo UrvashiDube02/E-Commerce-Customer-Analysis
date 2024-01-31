@@ -11,8 +11,7 @@ The primary objective of this project is to analyze customer behaviour in the co
 2. **Exploratory Data Analysis (EDA)**: Analyzing key variables' distributions, identifying trends, and exploring relationships between variables.
 3. **Statistical Analysis**: Using statistical tests like chi-square to understand the significance of observed patterns.
 4. **Customer Segmentation**: Employing clustering techniques to categorize customers based on their responses.
-5. **Sentiment Analysis**: Analyzing open-ended responses, if any, to gauge customer sentiment.
-6. **Modelling**: Building predictive models to understand customer behaviour and preferences.
+5. **Modelling**: Building predictive models to understand customer behaviour and preferences.
 
 ## Why This Project is Useful
 This analysis provides valuable insights into customer preferences and behaviour in the e-commerce domain. It can help businesses tailor their strategies, improve customer engagement, and enhance the overall shopping experience.
